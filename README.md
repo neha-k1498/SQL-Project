@@ -1,6 +1,6 @@
-About this project
+**About this project
 
-Project Description:
+Project Description:**
 
 The aim of the restaurant menu and order analysis project was to extract actionable insights from menu and order data using SQL. The project addressed key business needs, including optimizing menu offerings, improving inventory management, and enhancing customer satisfaction.
 
